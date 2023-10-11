@@ -1,0 +1,151 @@
+*{
+    
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+    
+}
+
+
+.navbar{
+    height:60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.navlogo{
+    
+    height:50px;
+    width: 100px;
+    
+}
+.logo{
+    background-image: url("amazon_logo.png");
+    background-size:cover ;
+    height:50px;
+    width: 100px;
+
+
+}
+
+.border{
+
+    border: 2px solid white;
+
+}
+.border:hovre{
+    border: 2px solid rgb(138, 16, 16);
+}
+.add-icon{
+    display: flex;
+
+}
+.fa-solid fa-location-dot{
+    display: flex;
+}
+.add-fst{
+    margin-left: 15px;
+}
+.addsec{
+    margin-left: 15px;
+}
+.navserch{
+    display: flex;
+    border: none;
+    margin-left: 15px;
+}
+.input{
+    width: 500px;
+    height: 30px;
+}
+.serchicon{
+    display: flex;  
+    align-items: center;
+    background-color: blue;
+    width: 50px;
+    justify-content: center;
+}
+.signin{
+    font-size: 1rem;
+    font-weight: 700;
+}
+#nav2{
+    height:30px;
+  
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    ;
+    border: 1px solid white;
+
+}
+
+.panel2{height:30px;
+    width: 900px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+
+}
+.panel3{
+    height:30px;
+    background-color: #0f1111;
+    color: white;
+    display: inline;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.class-list{height:30px;
+    width: 900px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.herosection{
+    background-image: url("hero1.jpg");
+    background-size: cover;
+    height: 600px;}
+.shop{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: palevioletred;
+    height: 400px;
+
+}
+
+.box{
+
+   
+    border: #0f1111;
+    height: 100px;
+    width: 23%;
+
+
+    
+}
+.boximage  {
+    background-image: url("box2.jpg");
+    background-size: cover;
+    height: 300px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+
+    
+}   
+
+
+
+    
+
